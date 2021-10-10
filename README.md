@@ -6,9 +6,9 @@ Quando o usuário perde o jogo. Ele pode iniciar novamente o jogo clicando em ok
 
 Funções criadas:
   
-  - shuffleOrder() - cria ordem aleatória de cores
-  - lightColor() - acende a próxima cor
-  - checkOrder() -  compara se a ordem das cores foi o que foi clicado
+  - shuffleOrder() - funçao que cria ordem aleatória de cores
+  - lightColor() - funcção que acende a próxima cor
+  - checkOrder() -  função que compara se a ordem das cores foi o que foi clicado
   - click() - função para o clique do usuário
   - createColorElement - função que retorna a cor
   - nextLevel() - função para o próximo nível do jogo
