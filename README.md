@@ -10,7 +10,7 @@ Funções criadas:
   - lightColor() - funcção que acende a próxima cor
   - checkOrder() -  função que compara se a ordem das cores foi o que foi clicado
   - click() - função para o clique do usuário
-  - createColorElement - função que retorna a cor
+  - createColorElement() - função que retorna a cor
   - nextLevel() - função para o próximo nível do jogo
   - gameOver() - função para game over
   - playGame() - função de início de jogo
