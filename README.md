@@ -8,7 +8,7 @@ Funções criadas:
   
   - shuffleOrder() - cria ordem aleatória de cores
   - lightColor() - acende a próxima cor
-  - checkOrder() - checa se os botões clicados são os mesmos da ordem gerada no jogo
+  - checkOrder() -  compara se a ordem das cores foi o que foi clicado
   - click() - função para o clique do usuário
   - createColorElement - função que retorna a cor
   - nextLevel() - função para o próximo nível do jogo
